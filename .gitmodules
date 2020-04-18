@@ -1,0 +1,3 @@
+[submodule "EastonBot/EastonBot/gpt-2"]
+	path = EastonBot/EastonBot/gpt-2
+	url = https://github.com/nshepperd/gpt-2.git
