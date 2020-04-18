@@ -3,7 +3,7 @@ import json
 import os
 
 
-token = '398505d0636d0138dcb04a99fb53c9c4'
+token = ''
 
 id_list = {
     'Easton': '22793326'
